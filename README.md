@@ -1,4 +1,4 @@
 ccts
 ====
 
-pel
+This is the repository for guria's paper.
